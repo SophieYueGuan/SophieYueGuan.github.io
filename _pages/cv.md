@@ -41,4 +41,4 @@ Teaching
   
 Projects
 ======
-* PI of NSFC project (Grants 72202220)
+* Supported by NSFC Young Scholar Project (Grants No: 72202220)
