@@ -14,7 +14,7 @@ Education
 * 2011-2015 B.S. in Information Management and Information Systems, School of Economics and Management, Tsinghua University
 * 2013.8-2013.12 Exchange student at Ivey Business School
 * 2015-2021 Ph.D in Management Science and Engineering, School of Economics and Management, Tsinghua University
-* 2018.10-2019.10 Visiting Ph.D student at University of Washingtong
+* 2018.10-2019.10 Visiting Ph.D student at University of Washington
 
 Work experience
 ======
