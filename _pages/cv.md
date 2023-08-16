@@ -22,6 +22,7 @@ Work experience
   * School of Economics and Management, Communication University of China
 * 2021.9-2023.8: Assistant professor
   * School of Economics and Management, Communication University of China
+
 Publications
 ======
   <ul>{% for post in site.publications %}
